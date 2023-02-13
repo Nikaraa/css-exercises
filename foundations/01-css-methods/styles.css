@@ -1,0 +1,8 @@
+div{
+    color: white;
+    background-color: red;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif; /*I like this font, idk what is the one used in the exercise */
+    font-weight: bold;
+}
